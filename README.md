@@ -1,6 +1,6 @@
 # RealtimeDatabasePaginationJetpackCompose
 
-It's an app written in [Kotlin[1] that shows how to implement pagination in the [Realtime Database][2] using Jetpack Compose, [Android Architecture Components][3] in MVVM Architecture Pattern. For the UI it uses Jetpack Compose, Android's modern toolkit for building native UI.
+It's an app written in [Kotlin][1] that shows how to implement pagination in [Realtime Database][2] using Jetpack Compose, [Android Architecture Components][3] in MVVM Architecture Pattern. For the UI it uses Jetpack Compose, Android's modern toolkit for building native UI.
 
 ![alt text](https://i.ibb.co/th24qrC/app.png)
 
