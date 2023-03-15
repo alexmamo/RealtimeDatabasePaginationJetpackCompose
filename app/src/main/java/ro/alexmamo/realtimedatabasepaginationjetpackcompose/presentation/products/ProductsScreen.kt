@@ -14,11 +14,13 @@ fun ProductsScreen(
     Scaffold(
         topBar = {
             ProductsTopBar()
+        },
+        content = { padding ->
+            ProductsContent(
+                padding = padding,
+                navigateToProductScreen = navigateToProductScreen
+            )
+
         }
-    ) { padding ->
-        ProductsContent(
-            padding = padding,
-            navigateToProductScreen = navigateToProductScreen
-        )
-    }
+    )
 }
